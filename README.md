@@ -128,3 +128,27 @@ export default App;
 ```
 
 <hr>
+
+### All Attributes
+
+```jsx
+  bgColor?: string;
+  titleColor?: string;
+  title?: string;
+  show?: boolean;
+  buttonsDirection?: 'column' | 'row';
+  type?: 'alert' | 'confirm';
+  mode?: 'dark' | 'light';
+  buttonA?: {
+      bgColor?: string;
+      textColor?: string;
+      title?: string;
+      onClick?: () => void;
+  };
+  buttonB?: {
+      bgColor?: string;
+      textColor?: string;
+      title?: string;
+      onClick?: () => void;
+  };
+```
