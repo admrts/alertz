@@ -6,6 +6,11 @@
     "type": "git",
     "url": "https://github.com/admrts/alertz"
   },
+  "keywords": [
+    "modal",
+    "alert",
+    "typescript"
+  ],
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
