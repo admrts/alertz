@@ -77,6 +77,7 @@ export const ButtonA = styled.button`
   border-radius: 3px;
   background-color: #ff453a;
   color: white;
+  font-size: 1rem;
   @media (min-width: 768px) {
     font-size: 1.1rem;
   }
@@ -88,6 +89,7 @@ export const ButtonB = styled.button`
   border-radius: 3px;
   background-color: #30d158;
   color: white;
+  font-size: 1rem;
   @media (min-width: 768px) {
     font-size: 1.1rem;
   }
