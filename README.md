@@ -32,7 +32,7 @@ yarn add alertz
 
 ```jsx
 import { useState } from 'react';
-import { Alertz } from './components';
+import { Alertz } from 'alertz';
 
 function App() {
   const [open, setOpen] = useState(false);
@@ -61,7 +61,7 @@ export default App;
 
 ```jsx
 import { useState } from 'react';
-import { Alertz } from './components';
+import { Alertz } from 'alertz';
 
 function App() {
   const [open, setOpen] = useState(false);
